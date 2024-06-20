@@ -34,6 +34,25 @@ To get started with NaviGuide, follow these simple steps:
 
 NaviGuide is an open platform, and we welcome contributions from individuals and organizations interested in promoting community awareness. If you'd like to contribute to the platform by offering your expertise as a resource person or by suggesting improvements, please contact us at sineth21404@email.com or karunarathneprabodhani@gmail.com.
 
+<b>Important</b>
+
+Create cred.json file in Back-end for Google Drive API.*
+```
+{
+  "type": "service_account",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "private key\n",
+  "client_email": "email",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "n",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
+  "universe_domain": ""
+}
+```
+
 **Feedback:**
 
 We value your feedback and suggestions for improving NaviGuide. If you have any ideas for new features, enhancements, or if you encounter any issues while using the platform, please don't hesitate to reach out to us.
